@@ -1,0 +1,287 @@
+{
+  "settings": {
+    "name": "Site-09-26_1038",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#f15f47"
+      ]
+    },
+    "versionFirst": "4.0.17",
+    "uniqCompNum": 11,
+    "versionPublish": "4.0.17"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1352x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.5"
+          },
+          "title": "S.M. COMPUTER SERVICES<br>Contact: 9923311038",
+          "text": "Here are some services we may offer:\n<br>            -- Installing &amp; Maintaining computer systems\n<br>            -- Hardware &amp; Networking (PC Assembly)(LAN/WAN)\n<br>-- Online Remote  Support Services\n<br>-- Hardware Upgradation\n<br>-- Linux Distribution &amp; Support (All Flavors)\n<br>            -- Annual Maintenance Contracts\n<br>            -- Website Development\n<br>-- Wide Range of Software on all Windows Platforms\n<br>            --  Laptops Firmware Upgradation\n<br>-- viruses &amp; spyware recovery\n<br>-- Firewall installation &amp; maintenance For Better Internet Security\n<br>\n- &nbsp;Android Technical Support<br>            -- Application Maintenance &amp; Updates\n<br>--Data recovery  from Crashed Hard Disks, Formatted Disks, Pen drives   \n<br>\n<br>               Memory Card &amp; other Storage Media.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1",
+          "_styles": {
+            "H1": {
+              "text-align": "center",
+              "color": "#f15f47",
+              "font-size": "36px"
+            },
+            "SPAN": {
+              "font-size": "36px"
+            },
+            "P": {
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_inherit": "features1",
+          "_params": {
+            "showHeader": true,
+            "showSubheader": false,
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "columns": 5,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1080x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "headerAlign": "left",
+          "header": "Everyone sooner or later has computer troubles... Computer has slow boot or won't boot? :: It runs too slowly? :: Can't get online? :: Ran out of hard Drive space? :: Want a DVD or CD burner drive? :: Need a faster processor or memory? :: Hard Drive Crash? :: Viruses or spyware issues? :: Browser Hijacked? :: Internet Problems? There’s no need to get upset and frustrated, we'll fix it right!.\r<div>\r</div><div>&nbsp;</div>",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Field Support and Trouble Shooting",
+          "caption1": "BootDiagnosis and elimination of the faults at the end-user Site.\n<br>Train and update the user with proper guidance for any end-user errors/ mistakes.\n<br>Proactively taking corrective actions while performing Preventive Maintenance of Desktops /Laptops/Routers/ Printers.\n<br>Trained to handle all types of End-User Support Calls for Hardware/Software related tasks for Desktops / Printers / Projection System etc.\n<br>Hardware configuration, software installation and configuration and client applications installation and configuration.\n<br>Periodic Audit for preventing installation of unauthorized software by end users.\n<br>Prevention and management of surprise virus attacks / Trojans that may harm client network in part or whole.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "S.M. COMPUTER’S ON CALL SERVICES",
+          "caption2": "Onsite Computer Repairs for businesses&nbsp;<br>Remote Support and Software Assistance&nbsp;<br>Custom built computer systems (your specifications)\n<br>Wireless networking and router installation\n<br>Emergency Hard Drive Data Recovery\n<br>Onsite Virus removal / Firewall Protection\n<br>Custom Web Design\n<br>Firewall and virus protection\n<br>Spyware shields, Pop-Up Blockers\n<br>System Restoration\n<br>Software and Hardware upgrades\n<br>General Maintenance\n<br>OnSite Computer Tutoring\n<br>DSL Configuration&nbsp;",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "BUSSINESS COMPUTER REPAIRS",
+          "caption3": "We specialize in providing onsite computer repair services and network support for small &amp; medium size business. As your \"Part-Time IT Department,\" we deliver on-demand, on-site computer and network services that are convenient and reliable.\n<br>\n<br>Our commitment to world-class customer service has made us the most respected on-site computer repair and support provider in our service area. Most importantly, we guarantee our work!\n<br>\n<br>Why hassle with disassembling your PC from your office and hauling it to a repair shop every time it has problems? When virus and spyware issues surface or other computer headaches arise, you can rely on the certified technicians to deliver prompt, expert PC service on-site.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITCUSTOMER SUPPORT ON TIME",
+          "caption4": "If you need fast, immediate computer services and repair, S.M. COMPUTER SERVICES is right for you. You can call orround the clock, to request an onsite service call and we will dispatch a friendly service technician to your door within 4 hours.\n<br>\n<br>We offer on-site services directly to your Office in the city.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "REMOTE PC SUPPORT",
+          "caption5": "Computer Problems? Get them fixed remotely, no matter where you are located, fast, easy, and secure. S.M. COMPUTER SERVICES  Uses secured encrypted remote support technology to link your computer to ours to repair your computer. Our on-screen assistance software allows us to have one of our qualified technicians fix your computer from a remote location just as if they were actually in your office. ",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_name": "content4",
+          "_anchor": "content4-6",
+          "_styles": {
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS:</strong><br><strong>S.M. Computer Services<br></strong>Shop No. 23 AMC Complex<br>Below Hotel Grace Inn, Behind Rajapeth Police Station Amravati",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: moreshail1@gmail.com<br>\nPhone : 9923311038<br>\nPhone : 9028879031",
+          "text3": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-a",
+          "_styles": {
+            "STRONG": {
+              "color": "#f15f47"
+            },
+            "P": {
+              "color": "#f15f47",
+              "text-align": "center",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "20px"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
