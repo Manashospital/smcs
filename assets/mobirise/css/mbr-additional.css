@@ -1,0 +1,32 @@
+@import url(../../../https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+#header1-1 H1 {
+  text-align: center;
+  color: #f15f47;
+  font-size: 36px;
+}
+#header1-1 SPAN {
+  font-size: 36px;
+}
+#header1-1 P {
+  font-size: 16px;
+}
+#content4-6 .mbr-section-title .mbr-header__text {
+  color: #ffffff;
+}
+#content4-6 .mbr-section__col .mbr-header__text {
+  color: #ffffff;
+  text-align: left;
+}
+#content4-6 P {
+  color: #ffffff;
+}
+#contacts1-a STRONG {
+  color: #f15f47;
+}
+#contacts1-a P {
+  color: #f15f47;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
